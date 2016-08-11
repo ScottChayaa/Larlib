@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Demo Page</title>
+    <title>Larlib Demo Page</title>
 </head>
 <body>
  
-    <h1>Demo Page</h1>
+    <h1>Larlib Demo Page</h1>
 	
 </body>
 </html>
