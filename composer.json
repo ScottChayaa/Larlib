@@ -1,0 +1,13 @@
+{
+    "name": "scottchyaa/larlib",
+    "description": "Libraries of Scott",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Scott Lin",
+            "email": "mmx112945@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
